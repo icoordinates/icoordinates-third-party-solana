@@ -1,0 +1,3085 @@
+Streaming transaction logs mentioning 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm. Confirmed commitment
+Transaction executed in slot 34:
+  Signature: 5cejp7Pv5S3nSxjdbMas8AArHUJEEwqVGcGbozT5P165TybkwrD3ZWt177EQaJWj86PdoNzy3KTn8E6tcZCZvyio
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: Initialize
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4241 of 186767 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4241 of 153289 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4241 of 138792 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: zq+p0PHSI91w0mTua5xqgQ45FERuDUFdih3soabQpBDWhbCoAz9MQRj8////////6AMAAAAAAAAY/P///////+gDAAAAAAAANWHnAGfqZBAFWRmgu9BTuMOVg0bPZTMmKpsm6TVg54QAAAAAAAAAAAAAAIBQjE5BAAAAAAAAAAAAAAAAAAAAAM3MzD2amZk+zcxMPQAAAAAAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 72380 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 35:
+  Signature: 5cejp7Pv5S3nSxjdbMas8AArHUJEEwqVGcGbozT5P165TybkwrD3ZWt177EQaJWj86PdoNzy3KTn8E6tcZCZvyio
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: Initialize
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4241 of 186767 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4241 of 153289 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4241 of 138792 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: zq+p0PHSI91w0mTua5xqgQ45FERuDUFdih3soabQpBDWhbCoAz9MQRj8////////6AMAAAAAAAAY/P///////+gDAAAAAAAANWHnAGfqZBAFWRmgu9BTuMOVg0bPZTMmKpsm6TVg54QAAAAAAAAAAAAAAIBQjE5BAAAAAAAAAAAAAAAAAAAAAM3MzD2amZk+zcxMPQAAAAAAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 72380 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 36:
+  Signature: vyUJdWMhbXiBKNdYkMhRVpFSRivcmm9VjHjYcvZ3SASBWceXjwSst3c84R8t8vpYZkHAUfXimJEe1zzXeneJgFF
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: GrantCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: VKkNtzJIUMsBAAAAAAAAAAEAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEGc3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 16135 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 39:
+  Signature: 4kv3jfwt3pRggKR8uVBbb4pwaUr6K4T48AhLycBoTq8LACsEATEU9Zc2UCtWXdoH1BpNTfTVWdHpCZ6iXVRzFjnm
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUCAAAAAAAAAAIAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEGe3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 40:
+  Signature: 3t9azVmrWA7thW9pPohzJiCHwMEq6bVtenMF5HvP5heWyj3vA6Q11JcGPLhQnnG6gBCRS3MEHxDgDGGAby8zp5m
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUDAAAAAAAAAAMAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEGe3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 41:
+  Signature: qspJNjcSS1DBYCTxj8D8WgyPio7htm863kdRQ76AJVorduHHBxcAgEPoYrYdYx9cdNYud1ipCR2hvGdj7SVVABz
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 154951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUEAAAAAAAAAAQAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEGf3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 54494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 42:
+  Signature: 39g6FtfGWvHz1KCmpcHCgrmkUgTXyztD66EyJ4qRCMi3TEaXUWLXtPrKvapoYHc1EpRZmc12KVZtChiwpjAQpZKA
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUFAAAAAAAAAAUAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEGf3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 43:
+  Signature: 2bdKE8HnpKJHKwHDDqrFmSooFBJgiwsUKja6DNJptKuUpG81puKh6ZZ3uoTtqwR7YSV9BWSeo9au6nvhH1HASTSz
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjX+//////////7/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEGg3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 44:
+  Signature: 56wgAS5p766UfZ2wmPu3znpoW7ZeZe4qJUQ8SmFgPMH4LGtD8Qqaqv2DvCXXEq3kagBX4y4QxMUwrG3G5Wmykw35
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: EditCoordinates
+    Program data: 6LA4Q8fvEcoBAAAAAAAAAAEAAAAAAAAAyGRaMhgAAAB6aGFuZ3J1aXlhbmczNkBnbWFpbC5jb20QAAAAaWNvb3JkaW5hdGVzLnh5ehMAAABXaGVyZSB0aGVyZSdzIGEgd2F5Bw==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 9849 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 44:
+  Signature: 5tc3fSp8jkV5k6tLYGGYp7GSzAWyy8oSUL6BdpU8cC8hrPUKHUL9uV51xi1bMaP7TNbPvsVweZBJrZkd46nqS4bZ
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: EditCoordinates
+    Program data: 6LA4Q8fvEcoDAAAAAAAAAAMAAAAAAAAAyGRaMhYAAAB6aGFuZ3J1aXlhbmdAZ21haWwuY29tEAAAAGljb29yZGluYXRlcy54eXoTAAAAV2hlcmUgdGhlcmUncyBhIHdheQc=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 8676 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 45:
+  Signature: 5tc3fSp8jkV5k6tLYGGYp7GSzAWyy8oSUL6BdpU8cC8hrPUKHUL9uV51xi1bMaP7TNbPvsVweZBJrZkd46nqS4bZ
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: EditCoordinates
+    Program data: 6LA4Q8fvEcoDAAAAAAAAAAMAAAAAAAAAyGRaMhYAAAB6aGFuZ3J1aXlhbmdAZ21haWwuY29tEAAAAGljb29yZGluYXRlcy54eXoTAAAAV2hlcmUgdGhlcmUncyBhIHdheQc=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 8676 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 45:
+  Signature: 2rtZXazHPqusG9sRye9pgbrQds1R82bAKPGFhUKwgaQF3bgmS6jc8pbebw28sLAsAhFG5YKQ33ChzJ94ch1j1XfT
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: TransferCoordinates
+    Program data: m6nNwgiQf6kBAAAAAAAAAAEAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEECmXptBBFK2IBRy7eUx1Uy88B6zfuERHE9pQp1U6gXdA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 8708 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 46:
+  Signature: 2rtZXazHPqusG9sRye9pgbrQds1R82bAKPGFhUKwgaQF3bgmS6jc8pbebw28sLAsAhFG5YKQ33ChzJ94ch1j1XfT
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: TransferCoordinates
+    Program data: m6nNwgiQf6kBAAAAAAAAAAEAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEECmXptBBFK2IBRy7eUx1Uy88B6zfuERHE9pQp1U6gXdA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 8708 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 47:
+  Signature: 3qZ8iNcHBYYW4nP3MBUGBxF7Ng6ANQAfceQVnPU8adde1xqcPfiT4kWQgTF2n2NhYQkiUus9nhmu1CVjEA3iws9k
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: EditCoordinates
+    Program data: 6LA4Q8fvEcoBAAAAAAAAAAEAAAAAAAAAyGRaMg8AAAB1c2VyMUBnbWFpbC5jb20QAAAAaWNvb3JkaW5hdGVzLnh5ehMAAABXaGVyZSB0aGVyZSdzIGEgd2F5Bw==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 11239 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 49:
+  Signature: 27RSmc2AGUfwPAgqzPFvJLthX3s9P8g26Pmxoo6FcungWpTKtGwgBvxBj5XkxfZ1PFSbqX6yrEeYjcHuyvyFspeX
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: ReturnCoordinates
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4554 of 175343 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: BsHO0yygv1gCmXptBBFK2IBRy7eUx1Uy88B6zfuERHE9pQp1U6gXdAEAAAAAAAAAAQAAAAAAAADtzgoAAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 31979 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 49:
+  Signature: 2M6vMZDEmRbBUy3nBLMmzfWqioC3xdug6eSd4uWVfKH9FS5y75ic6qRYdzA5KPYsC5mEqi8DbpvaYSqs8NGEQuhV
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: ProtocolWithdrawal
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4554 of 179006 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: +/p0DSIhMPRujAYAAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 27820 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 50:
+  Signature: 2M6vMZDEmRbBUy3nBLMmzfWqioC3xdug6eSd4uWVfKH9FS5y75ic6qRYdzA5KPYsC5mEqi8DbpvaYSqs8NGEQuhV
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: ProtocolWithdrawal
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4554 of 179006 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: +/p0DSIhMPRujAYAAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 27820 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 50:
+  Signature: 64PV8oaJZR9W5ajcxFJqutMF9i2S3QaCQ834mGAtXEh8iui99wvTd4iJP9G1D2aHvxfxJaSnB4PRfy8X7Bfztpi
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PutCoordinatesOnSale
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: 74XlX1v+7NUCAAAAAAAAAAIAAAAAAAAAQEIPAAAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 16488 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 51:
+  Signature: 64PV8oaJZR9W5ajcxFJqutMF9i2S3QaCQ834mGAtXEh8iui99wvTd4iJP9G1D2aHvxfxJaSnB4PRfy8X7Bfztpi
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PutCoordinatesOnSale
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: 74XlX1v+7NUCAAAAAAAAAAIAAAAAAAAAQEIPAAAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 16488 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 51:
+  Signature: 5hqrGuhThF3DNnkU5BQUS6vw6NLjYV39S4AvbLwGpdPnW7B3Uzc7REriL39QDx9scbkDbCykjhbW2LVHZrc8MmUH
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: ChangeCoordinatesPrice
+    Program data: rpJabFcCjsACAAAAAAAAAAIAAAAAAAAAAC0xAQAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 12306 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 52:
+  Signature: 5hqrGuhThF3DNnkU5BQUS6vw6NLjYV39S4AvbLwGpdPnW7B3Uzc7REriL39QDx9scbkDbCykjhbW2LVHZrc8MmUH
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: ChangeCoordinatesPrice
+    Program data: rpJabFcCjsACAAAAAAAAAAIAAAAAAAAAAC0xAQAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 12306 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 52:
+  Signature: 3FACNJ1nir4gLZMHbxw4WKPNVtBZwMmzQUfK3uGBeSrU5zCHbKRXsMDCMFs6XVXYTh7SUinKoeRKKf3MBUKg945B
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: ChangeCoordinatesPrice
+    Program data: rpJabFcCjsACAAAAAAAAAAIAAAAAAAAAAC0xAQAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 12306 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 53:
+  Signature: 3FACNJ1nir4gLZMHbxw4WKPNVtBZwMmzQUfK3uGBeSrU5zCHbKRXsMDCMFs6XVXYTh7SUinKoeRKKf3MBUKg945B
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: ChangeCoordinatesPrice
+    Program data: rpJabFcCjsACAAAAAAAAAAIAAAAAAAAAAC0xAQAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 12306 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 54:
+  Signature: 4aMy1mGa1biefojAtMdXVCEMGmuHfSwukXoTivVvS8wNrFkpTr2D93cjeKPshD4B4pY3XJtEfu2f88vjNAXG2SqK
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: BuyCoordinatesOnSale
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 167480 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: PRg++FCbvh8CAAAAAAAAAAIAAAAAAAAAApl6bQQRStiAUcu3lMdVMvPAes37hERxPaUKdVOoF3Rw0mTua5xqgQ45FERuDUFdih3soabQpBDWhbCoAz9MQQAtMQEAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 40070 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 55:
+  Signature: 4aMy1mGa1biefojAtMdXVCEMGmuHfSwukXoTivVvS8wNrFkpTr2D93cjeKPshD4B4pY3XJtEfu2f88vjNAXG2SqK
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: BuyCoordinatesOnSale
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 167480 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: PRg++FCbvh8CAAAAAAAAAAIAAAAAAAAAApl6bQQRStiAUcu3lMdVMvPAes37hERxPaUKdVOoF3Rw0mTua5xqgQ45FERuDUFdih3soabQpBDWhbCoAz9MQQAtMQEAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 40070 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 55:
+  Signature: 3aJodShsnZWFnBQHZvLGo78W6bF4nekwt8rmWsE99EmjuBvErgjXye7vKY6KqxoaXgWtXVvkDbwjwKTv7rdEikmH
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PutCoordinatesOnSale
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: 74XlX1v+7NUDAAAAAAAAAAMAAAAAAAAAQEIPAAAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 14443 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 56:
+  Signature: 3aJodShsnZWFnBQHZvLGo78W6bF4nekwt8rmWsE99EmjuBvErgjXye7vKY6KqxoaXgWtXVvkDbwjwKTv7rdEikmH
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PutCoordinatesOnSale
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: 74XlX1v+7NUDAAAAAAAAAAMAAAAAAAAAQEIPAAAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 14443 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 56:
+  Signature: 3VtiZmf7ffv2mJDZNpCebVeVL4aHDGTpVAD7xtbd2xzE3pzvAiHSu64fse6zLNEmvEqwqiiGJiexgyUjkoUcM5BA
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: RetractCoordinatesOffMarket
+    Program data: B/2BYAfKDi0DAAAAAAAAAAMAAAAAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 10142 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 57:
+  Signature: 3VtiZmf7ffv2mJDZNpCebVeVL4aHDGTpVAD7xtbd2xzE3pzvAiHSu64fse6zLNEmvEqwqiiGJiexgyUjkoUcM5BA
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: RetractCoordinatesOffMarket
+    Program data: B/2BYAfKDi0DAAAAAAAAAAMAAAAAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 10142 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 58:
+  Signature: 1j3v5NH8iitQgEY6rhr1zzYHCbFrpMU2jmoM4VrHk57ntGewGnVkekMNWc5EYTLV1dLojYj5qtKwqDfdT1vmcVD
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PutCoordinatesOnAuction
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: 8hELXt3zp24DAAAAAAAAAAMAAAAAAAAAgJaYAAAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 16848 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 58:
+  Signature: kKo2qnFV6JNj161w8WrRa46RJ22xvCqz5K51Z32QGUjSSi3rChBSAG3ejgckmzmLxdywwBMv3NoGV4dB6jqvUVc
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: SellerCancelAuction
+    Program data: ZsOpZdnpOMADAAAAAAAAAAMAAAAAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 12393 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 59:
+  Signature: kKo2qnFV6JNj161w8WrRa46RJ22xvCqz5K51Z32QGUjSSi3rChBSAG3ejgckmzmLxdywwBMv3NoGV4dB6jqvUVc
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: SellerCancelAuction
+    Program data: ZsOpZdnpOMADAAAAAAAAAAMAAAAAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 12393 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 60:
+  Signature: 3tTsRNCPLLAi2KMjeP9aFo3r8LQ3yuV5z2PmitZqk5NW4CPPJqZHGc4QsuHHQbhtzYBzbeBFD1WEJXZgFDThuG1A
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PutCoordinatesOnAuction
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: 8hELXt3zp24EAAAAAAAAAAQAAAAAAAAAgJaYAAAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 23393 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 61:
+  Signature: 2Fbsd849tB9KN99AVLGP3EsWzbFoK4Tq344E1U4ZbxUUDEd1xWnEEMb2gbXjSAoToJvy8dDK8auSd7fWh8LTFe2r
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: BidOnAuction
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 158599 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: 5CKws3B/Do8EAAAAAAAAAAQAAAAAAAAAgZaYAAAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 49160 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 63:
+  Signature: 2DXdvRCRuFAM99d6uRj1LdiMrwFfBdkB87nNypJ4vCCrvLKZwxftYNPEgo55XGTKDaHxxcY6w4v3YrTy75VVU1V
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: BidOnAuction
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160098 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4554 of 152576 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: 5CKws3B/Do8EAAAAAAAAAAQAAAAAAAAAAC0xAQAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 55090 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 64:
+  Signature: 2DXdvRCRuFAM99d6uRj1LdiMrwFfBdkB87nNypJ4vCCrvLKZwxftYNPEgo55XGTKDaHxxcY6w4v3YrTy75VVU1V
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: BidOnAuction
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160098 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4554 of 152576 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: 5CKws3B/Do8EAAAAAAAAAAQAAAAAAAAAAC0xAQAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 55090 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 64:
+  Signature: 4nQ2CESirPM7hiwH8fyRNUTfJNQKA2DAGpauNsErSicVTyyTs3r8RkGNPfvPWpBVapVrpjAZ69sLMXAXWTKzWqbu
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: SellerConfirmAuctionOrder
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4554 of 163110 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: nXKoh/R2wqkEAAAAAAAAAAQAAAAAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 44000 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 65:
+  Signature: 4nQ2CESirPM7hiwH8fyRNUTfJNQKA2DAGpauNsErSicVTyyTs3r8RkGNPfvPWpBVapVrpjAZ69sLMXAXWTKzWqbu
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: SellerConfirmAuctionOrder
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4554 of 163110 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: nXKoh/R2wqkEAAAAAAAAAAQAAAAAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 44000 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 65:
+  Signature: 39w3t5grBfT6xAkURJqUpCb9yFFPEfBZtFRfhkMYrN5i7Jj2ZzUtjkTGDvZr7nfMSpJBKKn51ap3tz3dbVeX8cv4
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PutCoordinatesOnAuction
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: 8hELXt3zp24FAAAAAAAAAAUAAAAAAAAAgJaYAAAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 14393 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 66:
+  Signature: 39w3t5grBfT6xAkURJqUpCb9yFFPEfBZtFRfhkMYrN5i7Jj2ZzUtjkTGDvZr7nfMSpJBKKn51ap3tz3dbVeX8cv4
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PutCoordinatesOnAuction
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program data: 8hELXt3zp24FAAAAAAAAAAUAAAAAAAAAgJaYAAAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 14393 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 66:
+  Signature: dMyqspWreiW6xcSS8gYfrh4D9h8G1oLt83aG9KjD1uEJbdigwyxT6vA5ZZVnbfQtsEmqENt2CBWA7agT1u823HA
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: BidOnAuction
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 167599 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: 5CKws3B/Do8FAAAAAAAAAAUAAAAAAAAAALTEBAAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 40160 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 67:
+  Signature: dMyqspWreiW6xcSS8gYfrh4D9h8G1oLt83aG9KjD1uEJbdigwyxT6vA5ZZVnbfQtsEmqENt2CBWA7agT1u823HA
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: BidOnAuction
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 167599 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: 5CKws3B/Do8FAAAAAAAAAAUAAAAAAAAAALTEBAAAAAA=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 40160 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 107:
+  Signature: 4owvsMgiazby5YPTRCAY11YzvBk3NKLEF1QAUUkGj8AAJq3wX48uabJNZavpYyxGJ3jsCX8fqt9rwUAMHojxhVS6
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: BuyerConfirmAuctionOrder
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4554 of 168253 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: p75LdzZYDs0FAAAAAAAAAAUAAAAAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 38980 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 108:
+  Signature: Qcd5fWsLMNTzPbUTeVeWQt57Y7SAakXSQeuDVdtk9dcC1xf2dnF7RfVMZiDekcuaFBZWP9Z4hPuPwDQvDqUSdg3
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUGAAAAAAAAAAYAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHC3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 109:
+  Signature: 3FYLPPS5t7Uk3iyHxMfEv7URN1ZDPVjWidVGaLV2hjCLRFx6hYbNCRZUMurdahMktC6xNDA2Yez3QYyYFRE7R287
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: GiveOffer
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 169965 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: Rghhbhe/LGcGAAAAAAAAAAYAAAAAAAAAgMPJAQAAAAACmXptBBFK2IBRy7eUx1Uy88B6zfuERHE9pQp1U6gXdA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 37550 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 110:
+  Signature: 672WnKkgMGXq2XC65JaWge3fjPe2uQogkrgmY7PAGWPpFypTGLFhbVeAL8hycDs3DeKnuZbpiWjy8FDYh6vwazvZ
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: CancelOffer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4554 of 178353 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: npWH7urjsggGAAAAAAAAAAYAAAAAAAAA
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 27680 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 111:
+  Signature: 3SpxXVVLBFBFReMZBTX7XPDkYVjqpaLATyTdUGA9C2Mb85uak3vanHr6TA6mAM85YFYxkKyFGKC8vBQoLTsqPzLE
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUHAAAAAAAAAAcAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHD3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 112:
+  Signature: 5fVCNK1Ro1z35JAakt2yGndquBgGKfXyETjgB4UqfKuNLdwCBGsdtQuBrJBujVZErv3kZ3mdM9mDYAcYaU9Jxhx4
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: GiveOffer
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 171465 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: Rghhbhe/LGcHAAAAAAAAAAcAAAAAAAAAAFpiAgAAAAACmXptBBFK2IBRy7eUx1Uy88B6zfuERHE9pQp1U6gXdA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 36050 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 112:
+  Signature: 5q5RxjrAHjvUbmCG1WfgNWz7b7WfUXJ2eR9ajdMNRH4XPUops5evmvzSpjxzrECj1XDRE7aceANKNHCEi68FbiXa
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: AcceptOffer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4554 of 173057 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: x9mhPoJCmYUHAAAAAAAAAAcAAAAAAAAAApl6bQQRStiAUcu3lMdVMvPAes37hERxPaUKdVOoF3Q=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 34181 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 113:
+  Signature: 5q5RxjrAHjvUbmCG1WfgNWz7b7WfUXJ2eR9ajdMNRH4XPUops5evmvzSpjxzrECj1XDRE7aceANKNHCEi68FbiXa
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: AcceptOffer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4554 of 173057 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: x9mhPoJCmYUHAAAAAAAAAAcAAAAAAAAAApl6bQQRStiAUcu3lMdVMvPAes37hERxPaUKdVOoF3Q=
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 34181 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 114:
+  Signature: 5CeyXkLq2JfdAr6ed5voaQQswoajNfvvMcrRXnK8sB8SnFbVPPSW33vFu3nvArnLzbUA74oXNy8RXyvH4KiQLoxL
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 157950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUp/f///////2f9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHF3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 51495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 115:
+  Signature: 4TR4hAkdXyD628VjMjaJL75rwZLMo6SPAQMaZwPu2vW8s4TCuAaoa4Pjx9MZa9DJ7wh36ZxoiaT2ut2xeykhm7GD
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160949 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVF/////////6X/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHF3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48496 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 116:
+  Signature: 2SgCZi5JxWD6w2FpsEURhTjxgkGxJVb7Z5uDmPGVt4t1f6dtYEHv5bRKrgYS1R8aXiqYp3A77T4BJBUmAp8MTVYU
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXS/P///////8sDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHG3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 116:
+  Signature: 471buzK7kknfq31KztxnUBpMck859S7AtVQvXqt8hjmpD4dgsqUYCs7oEWPxaQSW2XhXDWpdepVNcMyyU1NmWPmN
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163949 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXC/////////5MDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHG3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45496 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 117:
+  Signature: 471buzK7kknfq31KztxnUBpMck859S7AtVQvXqt8hjmpD4dgsqUYCs7oEWPxaQSW2XhXDWpdepVNcMyyU1NmWPmN
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163949 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXC/////////5MDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHG3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45496 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 117:
+  Signature: 477VpG5aDiaaKFH8UutFEB6ZhrSUvG1Vo4Vyui7eG6oBhrs1ZNzrnZCxpLRbpdDoXL6rgJLM68HZV5hmmPEht3xy
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162452 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUjAwAAAAAAACIBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHG3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46993 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 118:
+  Signature: 477VpG5aDiaaKFH8UutFEB6ZhrSUvG1Vo4Vyui7eG6oBhrs1ZNzrnZCxpLRbpdDoXL6rgJLM68HZV5hmmPEht3xy
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162452 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUjAwAAAAAAACIBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHH3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46993 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 118:
+  Signature: 4X9ECpfjVip99MDCpUoj3beg987Dpf4WSemF34njb65Dvv5Z4fBtJLWRk1EBSnFrFYwCP4mGWppo5LaUaxnih98X
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163953 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVxAQAAAAAAAFECAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHH3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45492 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 119:
+  Signature: 4X9ECpfjVip99MDCpUoj3beg987Dpf4WSemF34njb65Dvv5Z4fBtJLWRk1EBSnFrFYwCP4mGWppo5LaUaxnih98X
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163953 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVxAQAAAAAAAFECAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHH3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45492 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 119:
+  Signature: 27rqXEuyLgdvCS4a1NqiDQUgop3zNizc9xzByQbQK8zWVihCG78NehhsGRXFiUyJmEsuzeyUjnF7ZKjNzrXJpxVD
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWgAgAAAAAAABQDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHH3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 120:
+  Signature: 27rqXEuyLgdvCS4a1NqiDQUgop3zNizc9xzByQbQK8zWVihCG78NehhsGRXFiUyJmEsuzeyUjnF7ZKjNzrXJpxVD
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWgAgAAAAAAABQDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHI3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 121:
+  Signature: 58pF5zrZ7eKfQtRx1sSHVFitcgH25eSTBvPVqH99vknaTRUFH7Fr8Xeae9ycUMJwEWjWkYUfKbdmk4m2yoAekpht
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 156450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjU9/f///////8P8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHI3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 52995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 121:
+  Signature: 5Q1J7otWYPtVQvP9pujPmcGs2sS5vEWhrqvemV3kkEaG16hPcVmg6Y3nX2HtKtYxatBDsttuggtQhUPAQuYhiEZf
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVX/////////7gCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHI3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 122:
+  Signature: 5Q1J7otWYPtVQvP9pujPmcGs2sS5vEWhrqvemV3kkEaG16hPcVmg6Y3nX2HtKtYxatBDsttuggtQhUPAQuYhiEZf
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVX/////////7gCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHJ3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 122:
+  Signature: 4C25bMLFqErkDZUgDcsMeAaUcWd6XzTCcisMHnLWXKXL39GeQipPNG2CQr2kMNz8u3z86Y8PxRKRd9GqrviDnvG4
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVnAwAAAAAAAGgCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHJ3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 123:
+  Signature: 4C25bMLFqErkDZUgDcsMeAaUcWd6XzTCcisMHnLWXKXL39GeQipPNG2CQr2kMNz8u3z86Y8PxRKRd9GqrviDnvG4
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVnAwAAAAAAAGgCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHJ3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 124:
+  Signature: XcX4t4WfHrVwSjFM7K1DWspWFM5uE6GhGZEhDdTjBxCUmcFvEFADGBVt7q3PHrtMETiACNCSYaCeZCkKsEgoCnC
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWF/////////+T+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHK3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 125:
+  Signature: 3JA1eCbZKxuMrKXHyg44AsFZg9VmXPUw4PUgwAhMQkiKGHhGHExKjhc3pq8e5ShWe1yfZdR8EP9QgdX5eUCFx8Bj
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 154950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXlAAAAAAAAAJ4AAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHK3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 54495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 125:
+  Signature: bTD6bEyrco7SXhtxFsgVzGCQFpJHHp3AwT54s1Ux2znnauNVwyhTm54PQM8vbTVkQi8FFTHVdWR4wEGNMVbumxi
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjViAgAAAAAAAFkDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHK3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 126:
+  Signature: bTD6bEyrco7SXhtxFsgVzGCQFpJHHp3AwT54s1Ux2znnauNVwyhTm54PQM8vbTVkQi8FFTHVdWR4wEGNMVbumxi
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjViAgAAAAAAAFkDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHL3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 126:
+  Signature: 4XdxX3zo3A9xhMCUhuZVtezhJWcfdNuKeZdHbzvCJLBaKmtFCJcAvs65XzdcNEzqmf6NN8XXCthB21vJ6KdhPikG
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUFAQAAAAAAADgAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHL3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 127:
+  Signature: 4XdxX3zo3A9xhMCUhuZVtezhJWcfdNuKeZdHbzvCJLBaKmtFCJcAvs65XzdcNEzqmf6NN8XXCthB21vJ6KdhPikG
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUFAQAAAAAAADgAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHL3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 127:
+  Signature: 9g6KBkZqZGQ2Hw8dSBEoDJUyD4Q7JWNVusvDL6h6Twg1e94AGQPsU5anVwX55hxZdSuAgi4rram3o2vqoYzZpqZ
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162449 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWYAgAAAAAAAIP8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHL3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46996 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 128:
+  Signature: 9g6KBkZqZGQ2Hw8dSBEoDJUyD4Q7JWNVusvDL6h6Twg1e94AGQPsU5anVwX55hxZdSuAgi4rram3o2vqoYzZpqZ
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWYAgAAAAAAAIP8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHM3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 128:
+  Signature: 2gwcMZe3bsEVv8tZRfuvSafnx9XWhAw1uEodmvERS7phZ5pevz5XM3tmGFjJvh1YSrHATbm2YuYx6ibzoX1fq3V6
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVcAAAAAAAAAFkAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHM3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 129:
+  Signature: 2gwcMZe3bsEVv8tZRfuvSafnx9XWhAw1uEodmvERS7phZ5pevz5XM3tmGFjJvh1YSrHATbm2YuYx6ibzoX1fq3V6
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVcAAAAAAAAAFkAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHM3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 130:
+  Signature: 4UPDfrCpqgtfxCzZnVoVL64PgVqxakzoNuSjCyeAyPEZ9KSmpzYNxAZHNnsk7ovEEkhPajjj8bRCmiBLRji5GzG
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUg/////////5X/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHN3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 130:
+  Signature: 245o2eDQ6FEFD6TAxmGd4NfBASP5Ksu2sVtWsHm6kF4ct1y89DvffQLK6KokXZkdEBqec629n4Br9Uco1EYdQEHX
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXNAAAAAAAAANX9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHN3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 131:
+  Signature: 245o2eDQ6FEFD6TAxmGd4NfBASP5Ksu2sVtWsHm6kF4ct1y89DvffQLK6KokXZkdEBqec629n4Br9Uco1EYdQEHX
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXNAAAAAAAAANX9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHN3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 131:
+  Signature: 2abZWG5DBnh7EPEryBZzvr1LD2Xo2n3Vn29aRz3RuAy65UvyPtZnSU7k1oo3bTi5nbbZuvakSp6NyRRqee5KsoVF
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXtAQAAAAAAANoCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHN3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 132:
+  Signature: 2abZWG5DBnh7EPEryBZzvr1LD2Xo2n3Vn29aRz3RuAy65UvyPtZnSU7k1oo3bTi5nbbZuvakSp6NyRRqee5KsoVF
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXtAQAAAAAAANoCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHO3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 132:
+  Signature: 2QjoBmmNVKgmFXi4erdvkndTP53XqFbSBKSwtrGGuDBivLPvhJU91H7jXvuhMbeP7r2fp7vTm8H7hmh8abVx1wLp
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUn/P///////8j/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHO3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 133:
+  Signature: 2QjoBmmNVKgmFXi4erdvkndTP53XqFbSBKSwtrGGuDBivLPvhJU91H7jXvuhMbeP7r2fp7vTm8H7hmh8abVx1wLp
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUn/P///////8j/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHO3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 133:
+  Signature: 2MoqkUkiGkXyWc6NLGWwfn3HYWDAiTUkkmhGHzxzre9DiqGW6Shc29qJXe8x5tDNxb8W5um6QieLvDNjWNUJVdq2
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjW2/v///////838////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHO3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 134:
+  Signature: 2MoqkUkiGkXyWc6NLGWwfn3HYWDAiTUkkmhGHzxzre9DiqGW6Shc29qJXe8x5tDNxb8W5um6QieLvDNjWNUJVdq2
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjW2/v///////838////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHP3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 134:
+  Signature: 2btzhTpEMCNm4gK1HxD3ohLT1vKC1HBV96BeTKJmgqsRtg6gjji5Vsa6zNJJxNPNhWfso4o4C1o3HvH9zqQmumJz
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXh/v///////3sCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHP3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 135:
+  Signature: 2btzhTpEMCNm4gK1HxD3ohLT1vKC1HBV96BeTKJmgqsRtg6gjji5Vsa6zNJJxNPNhWfso4o4C1o3HvH9zqQmumJz
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXh/v///////3sCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHP3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 135:
+  Signature: 55G2dckj1w7x8VvShxpszuUJdthAnpLB6dZfwscbpUwj5ZpTMp2CfKg3pRA2cBbLhTfjVTA5ccNgUKr1xvfYcrho
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVA/P///////xcBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHP3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 136:
+  Signature: 55G2dckj1w7x8VvShxpszuUJdthAnpLB6dZfwscbpUwj5ZpTMp2CfKg3pRA2cBbLhTfjVTA5ccNgUKr1xvfYcrho
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVA/P///////xcBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHQ3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 136:
+  Signature: Aw2QEWdqrtjcgiHk1VJjQPTrPmXKkwGV6Qz2dpPehQzaMnCesQiCEvrdAXMBY6wBsY16n4XD6PHaS2MLgzWjVfw
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 157951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWZ/v///////wX9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHQ3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 51494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 137:
+  Signature: Aw2QEWdqrtjcgiHk1VJjQPTrPmXKkwGV6Qz2dpPehQzaMnCesQiCEvrdAXMBY6wBsY16n4XD6PHaS2MLgzWjVfw
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 157951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWZ/v///////wX9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHR3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 51494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 138:
+  Signature: 4Aep2tM71bWp6tX47SSYdEBxhc2phwegvoGu9CNGKAK2B47sxnQfr5F2JS9w7cXLXpiq8cC4iUbM9ktm5SZx6pJU
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjW1/f///////7ADAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHR3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 138:
+  Signature: 2KUnvwhn6fKhoSj7a6QJyyQL6c9Zb5XQxsQU8noiVwBKKMQ6Q1UaAfYDWTPFVaq17xTz1DWtUisB3MqY7CM2Yvwv
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXK/////////4b/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHR3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 139:
+  Signature: 2KUnvwhn6fKhoSj7a6QJyyQL6c9Zb5XQxsQU8noiVwBKKMQ6Q1UaAfYDWTPFVaq17xTz1DWtUisB3MqY7CM2Yvwv
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXK/////////4b/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHS3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 139:
+  Signature: 5ckwhkTnCmDcdh4XdLYVCQHv7rcobwtats8ffw1ktBdMnb8sTzdTrpWgmFyW3z9ZRWMmk27iiecG4So9c73A1h3e
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjV9AgAAAAAAAFcDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHS3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 140:
+  Signature: 5ckwhkTnCmDcdh4XdLYVCQHv7rcobwtats8ffw1ktBdMnb8sTzdTrpWgmFyW3z9ZRWMmk27iiecG4So9c73A1h3e
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjV9AgAAAAAAAFcDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHS3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 140:
+  Signature: 2PvVpWKPDYaG5GKLh2obZGJdRaGjoXPPtj6LfBfwZEK3d7szrSjyezBLg99nwrtawBx8Qtm8Qe1H2EykW3h39ND2
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjV0AgAAAAAAACz9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHS3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 141:
+  Signature: 2PvVpWKPDYaG5GKLh2obZGJdRaGjoXPPtj6LfBfwZEK3d7szrSjyezBLg99nwrtawBx8Qtm8Qe1H2EykW3h39ND2
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjV0AgAAAAAAACz9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHT3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 141:
+  Signature: 2Z44LwAbBP78Cy8TmEzzgPBWAVCNW8ivz347dj4UcMByZQVnYQpcbKPJyEsmyx51eHtaue4nePWgBBEbWp86gWDo
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWDAQAAAAAAALEBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHT3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 142:
+  Signature: 2Z44LwAbBP78Cy8TmEzzgPBWAVCNW8ivz347dj4UcMByZQVnYQpcbKPJyEsmyx51eHtaue4nePWgBBEbWp86gWDo
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWDAQAAAAAAALEBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHT3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 142:
+  Signature: RPDpkz6REfNwoSDmJjNphZGsMXGjUgCVrQBzdPKvqaYuxRr1aRtTtuvf7Mus9qPpLfhA4r8xSyaU1oZJmdVLh3v
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjX8AgAAAAAAAIb/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHT3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 143:
+  Signature: RPDpkz6REfNwoSDmJjNphZGsMXGjUgCVrQBzdPKvqaYuxRr1aRtTtuvf7Mus9qPpLfhA4r8xSyaU1oZJmdVLh3v
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjX8AgAAAAAAAIb/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHU3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 143:
+  Signature: 5VSVC8CacPjgM5VrsiVYpZuxbTpSM63hzYxK4ZQNmc66kqJqz2aTsXKdTQ9kP8UG1NJ1j1E4ac3Gbjpsks7GXr4V
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 145951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjV8AgAAAAAAAGACAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHU3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 63494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 144:
+  Signature: 5VSVC8CacPjgM5VrsiVYpZuxbTpSM63hzYxK4ZQNmc66kqJqz2aTsXKdTQ9kP8UG1NJ1j1E4ac3Gbjpsks7GXr4V
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 145951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjV8AgAAAAAAAGACAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHV3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 63494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 144:
+  Signature: 4ERPWjREmvUe1ftSTTaHaU4LTZCgFcKb7rYngTvX6KvSi2u4Y4henGsYTY6wiQLWvqqFwQiuZPV59pWMJza9M5is
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWT/f///////w8CAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHV3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 145:
+  Signature: 4ERPWjREmvUe1ftSTTaHaU4LTZCgFcKb7rYngTvX6KvSi2u4Y4henGsYTY6wiQLWvqqFwQiuZPV59pWMJza9M5is
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWT/f///////w8CAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHV3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 145:
+  Signature: 2Wp5f23vhTixtX12B2krtt3EF6rF84MGMN8oyN32moSksjmLr553TxZxnVUsuUUFKZU7MVmy9JLv7Qu7pcWkAQ6p
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVsAAAAAAAAAEYDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHV3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 146:
+  Signature: 2Wp5f23vhTixtX12B2krtt3EF6rF84MGMN8oyN32moSksjmLr553TxZxnVUsuUUFKZU7MVmy9JLv7Qu7pcWkAQ6p
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVsAAAAAAAAAEYDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHW3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 147:
+  Signature: 3vrDy6h1VQqtzNbJ42eZb6gRxCQ5HoLHr1jCPiHyxGHRLtL9PXkiYAaDj6uncgjBKw9KAQpNacPsZHg7kBaGedaX
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163949 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVVAQAAAAAAAHsCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHW3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45496 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 148:
+  Signature: 3PTLnp2kHHbaBsN9SgSAXv9v4VFEdL1WLmfZY75GvmXycsgYmMUEpvVPp4aGFgboNFGy6wgMB6ANVeDgnNbpVEkm
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjW/AwAAAAAAAMEBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHX3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 149:
+  Signature: 5WiJCNbxCkHH3sh18jvYchLGgyZLnzSaSqi53N9pjHsaXz8JGeQN9YQnqK921wJxLSG6mhsgBzysXVY22NRkoZTA
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXyAAAAAAAAAL//////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHX3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 149:
+  Signature: MPqQcyZaqsoE8u6pp8HSFZVG9ht3o9W43xKhMa8cJWZsN6tYojWtqYmfPuh5LSeQ6AiBcVLhpe33Q7dxHFtnJ6D
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVKAQAAAAAAAPr8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHX3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 150:
+  Signature: MPqQcyZaqsoE8u6pp8HSFZVG9ht3o9W43xKhMa8cJWZsN6tYojWtqYmfPuh5LSeQ6AiBcVLhpe33Q7dxHFtnJ6D
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVKAQAAAAAAAPr8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHY3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 150:
+  Signature: 3EmjovZCRzwMXXYQybovaxaDwvk36dqu658Q1obVua1a2XMDnGy3KJWdxb9WbaNMSuwYDaKta8n5ZStWozxH26W1
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjV7/P///////xH/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHY3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 151:
+  Signature: 3EmjovZCRzwMXXYQybovaxaDwvk36dqu658Q1obVua1a2XMDnGy3KJWdxb9WbaNMSuwYDaKta8n5ZStWozxH26W1
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjV7/P///////xH/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHY3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 151:
+  Signature: 5DdsDZCLNkyXDK6f9ujFjGcuaZ2bfuM2BqFv2wTcTvoDicKcahHhwPZ1ZQHgNnyWawwjdqT7PDGBHciuK53wariP
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjX9/v///////6kDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHY3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 152:
+  Signature: 5DdsDZCLNkyXDK6f9ujFjGcuaZ2bfuM2BqFv2wTcTvoDicKcahHhwPZ1ZQHgNnyWawwjdqT7PDGBHciuK53wariP
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjX9/v///////6kDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHZ3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 153:
+  Signature: 3Fw7tdLhU2Zti5Pu6kKiVHbMSAmGJUod1FTMFaZHRY66DeLZWUXS5AfzDYcndipQzqR3qky4c9tzRFpKDQxR4FNv
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVQ/P///////8gCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHZ3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 154:
+  Signature: 231diSwFayRyJveSEEGFAaExicm7PzPkENTxbmB9HnraH4EYgtz7RMPgJB9ZUY7dJUDUGCdVstT7peWzR1fExxhK
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUQ/////////x//////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHa3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 154:
+  Signature: 4q6pMxZCs75ddmk1NRovjWE8fBM5WNzSwfKup6eJm42x1TuRHFkrERotbeGctVNHhvsgpVgUp9CvMheZHW6i7EwN
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUc/f///////xv+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHa3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 155:
+  Signature: 4q6pMxZCs75ddmk1NRovjWE8fBM5WNzSwfKup6eJm42x1TuRHFkrERotbeGctVNHhvsgpVgUp9CvMheZHW6i7EwN
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUc/f///////xv+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHa3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 155:
+  Signature: 4ushu2ENi62TwZERbn1g8n2XBhebePPeoZnPRr4ts2GJDd8TmkfKVQ5aaHp6oeECzSedh6HHB1MYHo8qQ7QXDXWe
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVJ/f///////2j/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHa3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 156:
+  Signature: 4ushu2ENi62TwZERbn1g8n2XBhebePPeoZnPRr4ts2GJDd8TmkfKVQ5aaHp6oeECzSedh6HHB1MYHo8qQ7QXDXWe
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVJ/f///////2j/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHb3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 156:
+  Signature: 3tFZhgMBwaQB1jpjAmACme9YYXmVdAt2KozKaW15CiLmHXY5PPkLmN6mwmhh9Lbh2TtrnFr3pjq9JsK4ipVHDpDL
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXNAwAAAAAAAAP9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHb3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 157:
+  Signature: 3tFZhgMBwaQB1jpjAmACme9YYXmVdAt2KozKaW15CiLmHXY5PPkLmN6mwmhh9Lbh2TtrnFr3pjq9JsK4ipVHDpDL
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXNAwAAAAAAAAP9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHb3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 157:
+  Signature: 2QAUGG8sQFq9cVfJTzWvQP2BYE7uWAJe7Deqx3C8ZG6RBVNVB79erzvXeQFZ1my2HtaqU7dxNPVSBgijpZoko3CX
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162452 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWvAgAAAAAAAEP+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHb3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46993 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 158:
+  Signature: 2QAUGG8sQFq9cVfJTzWvQP2BYE7uWAJe7Deqx3C8ZG6RBVNVB79erzvXeQFZ1my2HtaqU7dxNPVSBgijpZoko3CX
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162452 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWvAgAAAAAAAEP+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHc3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46993 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 159:
+  Signature: nMNtJwAFMtYM2U7f7bskW1oYhaZG8ebxdvMm26fG5zsJ4ArEwdKrkQEjHws5R8kRAF5J7uL2sYqtQmGy95FgtFx
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXB/v///////9wDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHc3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 159:
+  Signature: L9xhnxC8QvLBpSn9SuutML7NLumN5MvwtPVzowTmiNMXP2eP4dTy6KQPxQGKEwWvXL9KpEizVNWGQZCrm7rpcVM
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWX/v///////0z8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHc3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 160:
+  Signature: L9xhnxC8QvLBpSn9SuutML7NLumN5MvwtPVzowTmiNMXP2eP4dTy6KQPxQGKEwWvXL9KpEizVNWGQZCrm7rpcVM
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWX/v///////0z8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHd3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 161:
+  Signature: 4Qx2m65jE9gRp6bWeb1WVUdcGHrzpJV1me6gxoDiYQc6JCQQ2yhZY4cttZt4WJDYrXGRpwLoWGLSut2MAUCE2piJ
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjV0AAAAAAAAANz+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHd3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 162:
+  Signature: 4WsuUuAstoYMZNCqsyky3468EuBYQcvhasfKBw8Jc6YjfENiPaQjbj5ekJLAPGN9AFx3k7qvCdZNsu6zWk3QjSY6
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXMAAAAAAAAAEUDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHe3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 162:
+  Signature: 4Nn57H7kQRdHgz2MdQZo3SLq9mz9ZLNwUoBdJYK8FiTPWK2tciJJD6K7Tvaza79vMAjjQuFk1xuany8vExYqWrJa
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUx/f///////wYBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHe3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 163:
+  Signature: 4Nn57H7kQRdHgz2MdQZo3SLq9mz9ZLNwUoBdJYK8FiTPWK2tciJJD6K7Tvaza79vMAjjQuFk1xuany8vExYqWrJa
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUx/f///////wYBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHf3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 164:
+  Signature: 3j2R2ZVxYTvnShgrCWV2YoRbMTFmiJGyi49HcKf6M5AeVvntHsCNVeN3QJDTspQuXQscCek6Y7BWFM8SpzNpqsWa
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXhAAAAAAAAAPcCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHg3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 165:
+  Signature: 3jVUUTuknNWwwHAyqYUvvzhkqtbqgVzeUc27a7K6FYqiQoNUvoTvSVw3iQrK2bCfP1U8MaTF1S8spDnyv26AyA3d
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXZ/////////0n8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHg3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 165:
+  Signature: 5GYM6eebK4tRDi9VsmhGLgv877A97mFaqY6hpavCuiMWyB1rtZXXb58rpfuSCWTc2A3orJtN9fZ6uw6HKjPDms63
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163949 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXK/v///////7H9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHg3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45496 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 166:
+  Signature: 5GYM6eebK4tRDi9VsmhGLgv877A97mFaqY6hpavCuiMWyB1rtZXXb58rpfuSCWTc2A3orJtN9fZ6uw6HKjPDms63
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163949 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXK/v///////7H9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHh3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45496 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 167:
+  Signature: bHXPd7AcxEdbW4H73vexRZd8Na2i3WHfdnmD9FyRmqR17i4znPG2axySrNkXNsiAsBVgAhD4Ymso7ZE2S2xGvVM
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 156450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXWAAAAAAAAAF0BAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHh3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 52995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 167:
+  Signature: 5VbtGZaFXZLpEdu8MBWfivqxLrsHtEM5BjYr93zrhw1yGBhWSbWfeCGNKMR2WdSxaFNCwQ8di7cYBByVVcXiJHEU
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVDAwAAAAAAAAoBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHh3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 168:
+  Signature: 5VbtGZaFXZLpEdu8MBWfivqxLrsHtEM5BjYr93zrhw1yGBhWSbWfeCGNKMR2WdSxaFNCwQ8di7cYBByVVcXiJHEU
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVDAwAAAAAAAAoBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHi3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 168:
+  Signature: 26ULfeLgsshoG35cygh2zkNEvqWHR3YTun7UsmBiEF8nbV96Cmvidw4x2iQpKaVUSNFWnbfekAGx1QtUYGxq5C22
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVZAwAAAAAAAMECAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHi3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 169:
+  Signature: 26ULfeLgsshoG35cygh2zkNEvqWHR3YTun7UsmBiEF8nbV96Cmvidw4x2iQpKaVUSNFWnbfekAGx1QtUYGxq5C22
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVZAwAAAAAAAMECAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHi3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 169:
+  Signature: 3tQMoafqH8HwQzBi74hdVCghPCcn9nuEQyPcFxJJx874Zm6pSNUK3hpkoeP8ya75N62jazxXfmUjt36nUZhEtjNM
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVBAQAAAAAAAHD8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHi3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 170:
+  Signature: 3tQMoafqH8HwQzBi74hdVCghPCcn9nuEQyPcFxJJx874Zm6pSNUK3hpkoeP8ya75N62jazxXfmUjt36nUZhEtjNM
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVBAQAAAAAAAHD8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHj3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 170:
+  Signature: 3pUba2YyAcAfnTUdp2KXy4bJush5DPyKtZhL4fjPyStk4sPDzQjwf7kKjFX4wnM2G2zs4ix4hRxkcEkw8iLTVjiy
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXGAQAAAAAAAMsCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHj3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 171:
+  Signature: 3pUba2YyAcAfnTUdp2KXy4bJush5DPyKtZhL4fjPyStk4sPDzQjwf7kKjFX4wnM2G2zs4ix4hRxkcEkw8iLTVjiy
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXGAQAAAAAAAMsCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHj3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 171:
+  Signature: 41nscowJvdsvajA5B5TNE9PggNEYuMXLfdzdxsUtoanHYSs81LAsd5caCjT5affo6vwRph7tgTkuJA4QgYXrV5Y8
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWz/f///////w8CAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHj3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 172:
+  Signature: 41nscowJvdsvajA5B5TNE9PggNEYuMXLfdzdxsUtoanHYSs81LAsd5caCjT5affo6vwRph7tgTkuJA4QgYXrV5Y8
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWz/f///////w8CAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHk3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 172:
+  Signature: 3fNW1mgsW7VogRbZua3y7dywpz8tDFLDNnsrvF4krjRCbgGLYDR8BC7kB3EL6RAbLdax6avTsBfrvVEq93igki5G
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 159450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVnAgAAAAAAAIb+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHk3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 49995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 173:
+  Signature: 3fNW1mgsW7VogRbZua3y7dywpz8tDFLDNnsrvF4krjRCbgGLYDR8BC7kB3EL6RAbLdax6avTsBfrvVEq93igki5G
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 159450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVnAgAAAAAAAIb+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHl3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 49995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 173:
+  Signature: 4gkLWpakfXQgNZjtJcnCvnmTa1shtFTohKJ8Ntsist9ba1CtNgKJ3LdS4tb6djZMJqVek7vwUTeC8ESVzq3M2giS
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjW8AAAAAAAAAPn9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHl3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 174:
+  Signature: 4gkLWpakfXQgNZjtJcnCvnmTa1shtFTohKJ8Ntsist9ba1CtNgKJ3LdS4tb6djZMJqVek7vwUTeC8ESVzq3M2giS
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjW8AAAAAAAAAPn9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHl3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 175:
+  Signature: 3LNCkUf8Re6t4KVHyVPzbw33Ed3tysj79Djq26ym9ZBm2YW5WGe6QicZAtyJrP52yAjmbRbf7SomzhpMVeD2FUPy
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXD/f///////1T9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHm3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 176:
+  Signature: 2aEuE3e2Y13hA5cXFvkqUkRsae2gMxp4gixfuLSGr2MEUXDHVARo41fkUniRQ4vPaJbSYebdQjRP8DPzbPu9pGTr
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjU6AQAAAAAAAC/8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHm3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 177:
+  Signature: 3fJh22ZFHFfgTrBxhvynQmes1ms8MzgHNtvFBLNsZT2WycDQXksDkGyufJ1Fot9oApd5Ap8ex3ddjypdMTDVRpgH
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 156451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUi/P///////48BAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHn3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 52994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 178:
+  Signature: 4mvWJMH8BfELuU28Gn1KugBzSS1Q3hBGixtRTQgS3KiDuAG96K5GHfCguSn9nXUktVRUefM6L3v8vi3TERDkEXA7
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 157951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjW5AQAAAAAAAOH+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHn3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 51494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 178:
+  Signature: 4i2dDgfqWQSJsWeJ7fR4ZRn4rLM7X89PyQsi2rju5QgjFrMX8CVrxMUFnXuu8tJgzcdSCEB5HSybDrCX4SHMx3mx
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 159451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjV1AgAAAAAAAC8AAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHn3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 49994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 179:
+  Signature: 4i2dDgfqWQSJsWeJ7fR4ZRn4rLM7X89PyQsi2rju5QgjFrMX8CVrxMUFnXuu8tJgzcdSCEB5HSybDrCX4SHMx3mx
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 159451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjV1AgAAAAAAAC8AAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHo3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 49994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 180:
+  Signature: 2dUgEcmZsr3pZhUdbyKnTvcjjcxemrMGKTyFq3g3YqkKWHSfPCL842JZpHM5NRphLQMqorojr1CykQW83C8yAWgK
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160949 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWz/v///////1wDAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHo3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48496 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 181:
+  Signature: HJfxhzALWj3XUaiQ3brUdFh1hU2wgtRKa7mDs7EHauSEh4edQUJnorYJvdvKrTJMjWXwrPknmxjKgikWwVkTqY9
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWn/f///////+j9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHp3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 181:
+  Signature: 2Vy4zv7UjaZr2U832Er9uDGihrMpwC48CVgqSEBmcyMBJ2XoYd3BVSbt6GpgJLGTw7qGANVZp7exZgvqjzuKUaQQ
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUg/P///////xQCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHp3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 182:
+  Signature: 2Vy4zv7UjaZr2U832Er9uDGihrMpwC48CVgqSEBmcyMBJ2XoYd3BVSbt6GpgJLGTw7qGANVZp7exZgvqjzuKUaQQ
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUg/P///////xQCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHp3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 182:
+  Signature: 2SfeX6X8rACumJbw4Zfyw1kHF42SGYACxaZLK1aHR2UZUhzh6L6zypb6TK1JiH2GVghHs6AMtgZmshqn3WK1hCtv
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162452 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWB/v///////xYCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHp3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46993 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 183:
+  Signature: 2SfeX6X8rACumJbw4Zfyw1kHF42SGYACxaZLK1aHR2UZUhzh6L6zypb6TK1JiH2GVghHs6AMtgZmshqn3WK1hCtv
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162452 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWB/v///////xYCAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHq3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46993 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 183:
+  Signature: 62rRu9UQAqkw2TjyeDub46ChJdX6kuLHk4zxaD6zjdjfMGhBEweSZiCSCjigf4BoJiR1aJZZVb24ePz5BbFxFgja
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjU2AAAAAAAAAI8AAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHq3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 184:
+  Signature: 62rRu9UQAqkw2TjyeDub46ChJdX6kuLHk4zxaD6zjdjfMGhBEweSZiCSCjigf4BoJiR1aJZZVb24ePz5BbFxFgja
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjU2AAAAAAAAAI8AAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHq3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 184:
+  Signature: 4DTEAA7NciLaDX8nZyx5kmtJGXBMoZbWf6BiUyUzubo9buydgbtCmr6grGsvqZbVtiazhtK43buLb1UAjTgFRFaF
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXf/v///////5//////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHq3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 185:
+  Signature: 4DTEAA7NciLaDX8nZyx5kmtJGXBMoZbWf6BiUyUzubo9buydgbtCmr6grGsvqZbVtiazhtK43buLb1UAjTgFRFaF
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXf/v///////5//////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHr3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 185:
+  Signature: tcE7DAc94jyEfa2sMtcmt75zGj7c9sipQHTKrN87JdA3fVzudXZH9TKHAnw9nkACG6qFu7suZmtNbqBfdYedyHs
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUv/P///////+/8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHr3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 186:
+  Signature: tcE7DAc94jyEfa2sMtcmt75zGj7c9sipQHTKrN87JdA3fVzudXZH9TKHAnw9nkACG6qFu7suZmtNbqBfdYedyHs
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUv/P///////+/8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHr3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 187:
+  Signature: 57tPZbhxPVhVF2YZwbZ22G9jgimkUya23kxnXDhyvvDicLePjsq78HZ24XXeYGmZYfuTb4BmnX7fR6xHiEYea9s4
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVC/////////+gAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHs3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 187:
+  Signature: 3EMcE8sCkUPPgATDRMzthThkP1U6895rXvi4Y4HHjG62QwEL8NLbexeMufMLL3ifTAqHPtYrFRfBdizwdhNB1KN
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXMAAAAAAAAAB/8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHs3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 188:
+  Signature: 3EMcE8sCkUPPgATDRMzthThkP1U6895rXvi4Y4HHjG62QwEL8NLbexeMufMLL3ifTAqHPtYrFRfBdizwdhNB1KN
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXMAAAAAAAAAB/8////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHs3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 188:
+  Signature: 43AR31wwr11duuCrgtFDNvjfvKTbRqb4N4AkbYG59ikJkP9EG1bF3mryPRx4LskGxz55JJDq2HJD1oxLBVpCFwdD
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWU/f///////ykAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHs3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 189:
+  Signature: 43AR31wwr11duuCrgtFDNvjfvKTbRqb4N4AkbYG59ikJkP9EG1bF3mryPRx4LskGxz55JJDq2HJD1oxLBVpCFwdD
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWU/f///////ykAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHt3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 189:
+  Signature: rJbsXbDWUQXH8DfszbGdXpVHdLiHs9W14oZEC7KChhxGEbkesScyWPqV6AZzAhWt27QkaSCGDCGFSjEBBCLVfWo
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVN/f///////+8BAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHt3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 190:
+  Signature: rJbsXbDWUQXH8DfszbGdXpVHdLiHs9W14oZEC7KChhxGEbkesScyWPqV6AZzAhWt27QkaSCGDCGFSjEBBCLVfWo
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVN/f///////+8BAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHt3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 191:
+  Signature: 2w6DWnMnWxUH6iJ5htcLmbLznzdbveLEwh7Xod4XGYUS2RDLfmEi9LQbSWPPagSdxD9FzMBxtyVFNdy9Tqanvoyi
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWF/f///////zkAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHu3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 191:
+  Signature: 2mEZ4YJeLDXguf6HXwoVYyiyVDdsgmhYLMfjymXy15Pr9cVQ3yKEhw9jd1gg18XHFFJmFEZt3uQqdGh52KPRuN3z
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXTAQAAAAAAAB4CAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHu3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 192:
+  Signature: 2mEZ4YJeLDXguf6HXwoVYyiyVDdsgmhYLMfjymXy15Pr9cVQ3yKEhw9jd1gg18XHFFJmFEZt3uQqdGh52KPRuN3z
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXTAQAAAAAAAB4CAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHu3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 192:
+  Signature: 4PLaGzB1tRTEDm7x7k4Agwot7SGpBMrqynMAf8VuUtrRUVP1132c2w5gjiRNgv7JP3aW6fQpVXf4kNsLttPFkHn5
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162451 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUd/v///////00AAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHu3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46994 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 193:
+  Signature: 4PLaGzB1tRTEDm7x7k4Agwot7SGpBMrqynMAf8VuUtrRUVP1132c2w5gjiRNgv7JP3aW6fQpVXf4kNsLttPFkHn5
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162452 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUd/v///////00AAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHv3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46993 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 193:
+  Signature: 2tqAnj8NLTMxonTSX6huMBihWkTtFNrR9XPgbNzJiuAs8L11efUkfpxDtdrKyu9So9ACwUVGbE6W2yxouwUmThnD
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUl/f///////8v9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHv3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 194:
+  Signature: 2tqAnj8NLTMxonTSX6huMBihWkTtFNrR9XPgbNzJiuAs8L11efUkfpxDtdrKyu9So9ACwUVGbE6W2yxouwUmThnD
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163950 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUl/f///////8v9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHw3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45495 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 195:
+  Signature: 3qtJokvTX3Jp3HPdL7X84PYZLnJAKRWyV22pDXKrdV8fAdogzJTyANezhRzgNBU9zQjHZhb4P5tBRd5LxTf7cUae
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWU/f///////+EAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHw3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 196:
+  Signature: 51rPEwpgUrrtLgphRW2hcisxXyFfhRnpUQZkzmxdsAF5M7VytY1NG2csYwVDsz7KtuH2dZzGZsTVzWPJkbqh1PZt
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUwAwAAAAAAAKgBAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHx3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 197:
+  Signature: 5akbwD6rijmeMkoKrpVj9vKYx6FayuwdnW385atEvDijWb5e6v1vvz8HK5eZixL6zCGYSMxTD2voRxXR7UoU6C7Z
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjW8/P////////MAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHx3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 197:
+  Signature: 4BzN4qNBn9ownLq3CrLfDFU4iPfnUWw682UCarQfKxkQ5Ww1GXzSLHLfFJRmtCSCLUmCKWBupZtAXh2JGWS5GfHN
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUL/f///////8f9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHx3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 198:
+  Signature: 4BzN4qNBn9ownLq3CrLfDFU4iPfnUWw682UCarQfKxkQ5Ww1GXzSLHLfFJRmtCSCLUmCKWBupZtAXh2JGWS5GfHN
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUL/f///////8f9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHy3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 198:
+  Signature: 4D8QSZ72MRghQ5qwaTHsBqTSnKF93mNa7MCCwSY297P7krYPnYBrqk56jdM3LLosZhE5iPyAXNvqHcZ84BxSWe2X
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVG/f///////7f9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHy3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 199:
+  Signature: 4D8QSZ72MRghQ5qwaTHsBqTSnKF93mNa7MCCwSY297P7krYPnYBrqk56jdM3LLosZhE5iPyAXNvqHcZ84BxSWe2X
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVG/f///////7f9////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHy3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 200:
+  Signature: 22dxKeesr8YGnCF51FRFdV4w9a4r4x56k7B5shpGx47UKpDJfySSSqzt5FLnqzXrKugqsCKfeEcVXpyVExHjSdrV
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUoAAAAAAAAAK0CAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHz3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 200:
+  Signature: 23QKCQDrQ3nJXKtzrPJ5QyehaFaSz3zPygcy9m6Aa1WP93zcM9cCQkcaSauACRcWbqRGfjtPh2NPGiARzGWZvM3a
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXKAQAAAAAAAPACAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHz3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 201:
+  Signature: 23QKCQDrQ3nJXKtzrPJ5QyehaFaSz3zPygcy9m6Aa1WP93zcM9cCQkcaSauACRcWbqRGfjtPh2NPGiARzGWZvM3a
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXKAQAAAAAAAPACAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEHz3CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 202:
+  Signature: 3dA9LdRfANwLVisA6AGNJnFu8CCyexkjD1j1RkBEtToKxq28CQeT6bN2yNAAZSMCLa3yM2wWotruuU3MNoot8DwL
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162450 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXhAwAAAAAAAP8AAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH03CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 46995 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 202:
+  Signature: 2sbsjh7KchHRUTN3dAF6j3qJseaFwaYXe5PrY6sAT9rrDVGFSeUU16ZieZJU4XMgcj1yZsdJRAhLKam8fV1kHA86
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXB/v///////18BAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH03CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 203:
+  Signature: 2sbsjh7KchHRUTN3dAF6j3qJseaFwaYXe5PrY6sAT9rrDVGFSeUU16ZieZJU4XMgcj1yZsdJRAhLKam8fV1kHA86
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXB/v///////18BAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH13CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 203:
+  Signature: 3BD3GE3uSACRd55Nw62UgogBym42ZA4GYbv5gGXiaVY4whp7JNV8GFWZoDbUnPimvWWNrwUfVsWxhqCbzrERqv45
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjU9/f///////24AAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH13CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 204:
+  Signature: 3BD3GE3uSACRd55Nw62UgogBym42ZA4GYbv5gGXiaVY4whp7JNV8GFWZoDbUnPimvWWNrwUfVsWxhqCbzrERqv45
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163952 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjU9/f///////24AAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH13CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45493 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 204:
+  Signature: 5syuDU8qo3qz5LcW8D6odwnKpWyVthK4ahsMjV9XChNtXzn1BY4bfxUQ3aVUzZCCBK8a2z5vLgc3fm7VKTZtE7eH
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 157951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXFAAAAAAAAABj+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH13CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 51494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 205:
+  Signature: 5syuDU8qo3qz5LcW8D6odwnKpWyVthK4ahsMjV9XChNtXzn1BY4bfxUQ3aVUzZCCBK8a2z5vLgc3fm7VKTZtE7eH
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 157951 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjXFAAAAAAAAABj+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH23CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 51494 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 206:
+  Signature: 5TVKF1WFPvUBTdzzDBN3eJn9C9ossuCcrRwC1zjBbt5s161usuYbW5pfW16VtrKEJYygd3311FMQrMkDkgnsvgkE
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 159269 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWt/P///////0z+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH23CFlAAAAAA==
+    Program data: 6hl6nQhYKIspAAAAAAAAAMgAAAAAAAAACf8dAAAAAAD23CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 53434 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 207:
+  Signature: 4Eeho4i8fVXWzvgx7deCiRmERsZHLzb9qrYiHfP7yCLowJwNqDdKnCZXij7htBDgqrHpuD1DxBkxC4ByVsa8Himu
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163768 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWS/v///////179////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH33CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45677 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 207:
+  Signature: 23BVXe9B7tLJKdrhktiCN6TkkysKt6neK9sbUxisU195RuwrP92Gq3zh7tKPgv22MY4NZCbhfc113rQAPjPN9Unw
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163768 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVLAQAAAAAAAA0BAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH33CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45677 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 208:
+  Signature: 23BVXe9B7tLJKdrhktiCN6TkkysKt6neK9sbUxisU195RuwrP92Gq3zh7tKPgv22MY4NZCbhfc113rQAPjPN9Unw
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163768 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVLAQAAAAAAAA0BAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH43CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45677 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 209:
+  Signature: 59stMBTNdQ85sYSEB6PzWRo6qtdAroDUSkxQ6XVwCgUZ4PZTXqNW8kHJzjra98AtZU62HnfUhLQuqzyKAvdgbXkR
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163766 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUL/////////yT/////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH43CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45679 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 210:
+  Signature: 5E2mp5BuTsx6KoFPh5M43ZQKKpRuhKHqHLK6VFnCXJtr2pdZpZ5fpbxvbxbmYdJqm9GRuDWd6VQaSyM8wwDciijp
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163768 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjUkAAAAAAAAAKAAAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH53CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45677 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 211:
+  Signature: 5X9QAsZV62VkXbSGcP8PUuMLw8V6cYkxerhWb3kE8UrKckDamCJzK3pVH6MZx1Y93SGGYR4ZgnDzvYkFi82FpCiQ
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 163768 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVvAgAAAAAAAG0CAAAAAAAAcNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH53CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 45677 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 211:
+  Signature: JMCoRSs4Af1jK3fJAsH51m3YoDVXkr8P1ZJp31SGGUpWTz1drX38g6AF7tJqpDYZ1YGr5wj2fHZBrxHr5Q8nxc8
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162268 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVnAwAAAAAAANr+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH53CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 47177 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 212:
+  Signature: JMCoRSs4Af1jK3fJAsH51m3YoDVXkr8P1ZJp31SGGUpWTz1drX38g6AF7tJqpDYZ1YGr5wj2fHZBrxHr5Q8nxc8
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 162268 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjVnAwAAAAAAANr+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH63CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 47177 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 212:
+  Signature: 4Lyhd4ux8fqAduJ6g8ZFvjq9nkym7DpCvQiPRprbXytBNVXqCS1QzUAwaQTXbGNku2mpSYpBekujG4gksimPBViZ
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160769 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWTAgAAAAAAAAX+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH63CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48676 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
+Transaction executed in slot 213:
+  Signature: 4Lyhd4ux8fqAduJ6g8ZFvjq9nkym7DpCvQiPRprbXytBNVXqCS1QzUAwaQTXbGNku2mpSYpBekujG4gksimPBViZ
+  Status: Ok
+  Log Messages:
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm invoke [1]
+    Program log: Instruction: PurchaseCoordinates
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 160769 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program data: AzqkpSwFDjWTAgAAAAAAAAX+////////cNJk7mucaoEOORREbg1BXYod7KGm0KQQ1oWwqAM/TEH63CFlAAAAAA==
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm consumed 48676 of 200000 compute units
+    Program 2erNMjZig8yyLCqS3xiXBQLcSYK7yVib7AcZZTA44ekm success
